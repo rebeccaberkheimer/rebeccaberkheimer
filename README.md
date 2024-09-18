@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Rebecca Berkheimer and I am a sophomore at Bloomsburg<br>University studying Computer Science.
+Hi, my name is Rebecca Berkheimer and I am a Junior at Bloomsburg<br>University studying Computer Science.
 
 
 ## 🌐 Socials:
